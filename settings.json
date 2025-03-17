@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Jungs.aternos.me",
+    "port": 4344,
+    "version": "1.21.1"
   },
 
   "position": {
